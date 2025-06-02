@@ -1,0 +1,5 @@
+(MainThread) Main thread started
+
+(inc2     ) Event set: True
+(inc1     ) Event set: True
+(MainThread) Event set: None
